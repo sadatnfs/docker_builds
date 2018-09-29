@@ -1,0 +1,6 @@
+
+sse,sse2,sse3,sse4_1,sse4_2,avx,sse4a,sse,fma4
+sse,sse2,sse4a,sse
+sse,sse2,sse3,fma,sse4_1,sse4_2,avx,avx2
+sse,sse2,sse3,fma,sse4_1,sse4_2,avx,sse4a,sse,fma4
+sse,sse2,sse3,sse4_1,sse4_2,avx

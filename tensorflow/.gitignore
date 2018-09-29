@@ -1,0 +1,6 @@
+# vagrant stuff
+.vagrant/
+# ubuntu logs
+*.log
+# ignore singularity images for now
+*.img
